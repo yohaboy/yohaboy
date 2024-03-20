@@ -1,7 +1,7 @@
 - 👋 Hi, I’m yohannes
 - 👀 I’m interested in ...backend
 - 🌱 I’m currently learning ...django
-- 💞️ I’m looking to collaborate on ...opensource projects
+- 💞️ I’m looking to collaborate on ...opensource projects and other stuffs
 - 📫 How to reach me ...yohannesgizaw777@gmial.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
