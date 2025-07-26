@@ -37,7 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.brandfetch.io/idm9RBBGnw/w/600/h/265/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1750923867762" title="Django REST Framework" alt="Django REST Framework" width="80" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" title="Django REST Framework" alt="Django REST Framework"/>
+
 
 </p>
 
