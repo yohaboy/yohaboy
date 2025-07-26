@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Zee</h1>
-<h3 align="center">A Fullstack Developer addicted to building seamless web experiences with creativity.</h3>
+<h3 align="center">Software Engineer</h3>
 
 <div align="center">
   <a href="https://twitter.com/yohannesCJ" target="_blank">
@@ -21,7 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+
 
 </p>
 
@@ -31,8 +34,11 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.brandfetch.io/idm9RBBGnw/w/600/h/265/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1750923867762" title="Django REST Framework" alt="Django REST Framework" width="80" height="30"/>&nbsp;
+
 </p>
 
 ---
@@ -45,6 +51,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </p>
 
 ---
