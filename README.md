@@ -48,19 +48,5 @@ I'm Yohannes, a Full Stack Developer building secure and nice looking web applic
 
 ---
 
-### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohaboy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-### ⚡ Activity Graph
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yohaboy&theme=react"/>
-</p>
-
----
 
