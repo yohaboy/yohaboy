@@ -12,12 +12,6 @@
 
 </div>
 
-## 👋 Hello!
-
-
-I'm Yohannes, a Full Stack Developer building secure and nice looking web applications.I am good at turning complex problems into simple, scalable solutions.
-
-
 ---
 
 ## 🛠️ Tech Stack
